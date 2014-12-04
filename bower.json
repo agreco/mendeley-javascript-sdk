@@ -16,7 +16,7 @@
     "sdk"
   ],
   "dependencies": {
-    "jquery": "~1.11.0"
+    "jquery": "~2.0.3"
   },
   "license": "Apache-2.0",
   "homepage": "http://dev.mendeley.com",
